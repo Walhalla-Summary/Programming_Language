@@ -20,6 +20,13 @@
  </a>
 </p>
 
+```java
+public class HelloWorld{
+    public static void main(String[] agrs){
+        System.Out.Println("Hello World!")
+    }
+}
+```
 <h2 align="center">Java.</h2>
 
 
