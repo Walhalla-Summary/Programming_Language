@@ -65,7 +65,14 @@ if__name__=='__main__':
 * [关键字-synchronized详解](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%26JUC/4_%E5%85%B3%E9%94%AE%E5%AD%97%20synchronized%E8%AF%A6%E8%A7%A3.md)
 * [关键字-volatile详解](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%26JUC/5_%E5%85%B3%E9%94%AE%E5%AD%97%20volatile%E8%AF%A6%E8%A7%A3.md)
 * [关键字-final详解](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%26JUC/6_%E5%85%B3%E9%94%AE%E5%AD%97%20final%E8%AF%A6%E8%A7%A3.md)
-* [shell脚本进阶](https://github.com/Walhalla-Summary/Linux_Notes/blob/master/linux/Linux/Shell%E8%84%9A%E6%9C%AC%E8%BF%9B%E9%98%B6.md)
+* [JUC-基础知识](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%26JUC/7_JUC%20-%20%E7%B1%BB%E6%B1%87%E6%80%BB%E5%92%8C%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97.md)
+* [JUC原子类-CAS, Unsafe和原子类详解](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%9F%BA%E7%A1%80/JAVA%E5%9F%BA%E7%A1%80%E6%80%BB%E7%BB%9302.md)
+* [java面试一](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%26JUC/8_JUC%E5%8E%9F%E5%AD%90%E7%B1%BB%20CAS%2C%20Unsafe%E5%92%8C%E5%8E%9F%E5%AD%90%E7%B1%BB%E8%AF%A6%E8%A7%A3.md)
+* [JUC原子类-CAS, Unsafe和原子类详解](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%9F%BA%E7%A1%80/JAVA%E5%9F%BA%E7%A1%80%E6%80%BB%E7%BB%9302.md)
+* [java面试一](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%9F%BA%E7%A1%80/JAVA%E5%9F%BA%E7%A1%80%E6%80%BB%E7%BB%9301.md)
+* [java面试二](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%9F%BA%E7%A1%80/JAVA%E5%9F%BA%E7%A1%80%E6%80%BB%E7%BB%9302.md)
+* [java面试一](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%9F%BA%E7%A1%80/JAVA%E5%9F%BA%E7%A1%80%E6%80%BB%E7%BB%9301.md)
+* [java面试二](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%9F%BA%E7%A1%80/JAVA%E5%9F%BA%E7%A1%80%E6%80%BB%E7%BB%9302.md)
 
 
 
