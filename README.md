@@ -21,11 +21,29 @@
 </p>
 
 ```java
+// java -> Hello World
 public class HelloWorld{
     public static void main(String[] agrs){
-        System.out.println("Hello World!")
+        System.out.println("Hello Java World!")
     }
 }
+```
+
+```scala
+// scala -> Hello World
+object HelloWorld{
+  def main(args:Array[String]){
+    println("Hello Scala World!")
+  }
+}
+```
+
+```python
+# python -> Hello World
+def HelloWorld():
+    print("Hello Python World!")
+if__name__=='__main__':
+    HelloWorld
 ```
 <h2 align="center">Java.</h2>
 
