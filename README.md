@@ -68,8 +68,8 @@ if__name__=='__main__':
 
 
 
-<h2 align="center">Scala.</h2>
+<h2 align="center">scala.</h2>
 
 
-<h2 align="center">Python.</h2>
+<h2 align="center">python.</h2>
 
