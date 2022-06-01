@@ -63,8 +63,8 @@ if__name__=='__main__':
 * [java并发-理论基础](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%26JUC/2_Java%E5%B9%B6%E5%8F%91-%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.md)
 * [java并发-线程基础](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%26JUC/3_Java%20%E5%B9%B6%E5%8F%91%20-%20%E7%BA%BF%E7%A8%8B%E5%9F%BA%E7%A1%80.md)
 * [关键字-synchronized详解](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%26JUC/4_%E5%85%B3%E9%94%AE%E5%AD%97%20synchronized%E8%AF%A6%E8%A7%A3.md)
-* [linux排错命令](https://github.com/Walhalla-Summary/Linux_Notes/blob/master/linux/Linux%E6%8E%92%E9%94%99%E5%91%BD%E4%BB%A4.md)
-* [shell脚本入门](https://github.com/Walhalla-Summary/Linux_Notes/blob/master/linux/Shell%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
+* [关键字-volatile详解](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%26JUC/5_%E5%85%B3%E9%94%AE%E5%AD%97%20volatile%E8%AF%A6%E8%A7%A3.md)
+* [关键字-final详解](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%26JUC/6_%E5%85%B3%E9%94%AE%E5%AD%97%20final%E8%AF%A6%E8%A7%A3.md)
 * [shell脚本进阶](https://github.com/Walhalla-Summary/Linux_Notes/blob/master/linux/Linux/Shell%E8%84%9A%E6%9C%AC%E8%BF%9B%E9%98%B6.md)
 
 
