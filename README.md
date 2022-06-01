@@ -43,7 +43,7 @@ object HelloWorld{
 def HelloWorld():
     print("Hello Python World!")
 if__name__=='__main__':
-    HelloWorld
+    HelloWorld()
 ```
 <h2 align="center">Java.</h2>
 
