@@ -49,10 +49,9 @@ if__name__=='__main__':
 
 * [java基础-知识点](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%9F%BA%E7%A1%80/1_Java%E5%9F%BA%E7%A1%80-%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 * [java基础-面向对象](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%9F%BA%E7%A1%80/2_Java%E5%9F%BA%E7%A1%80-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)
-* [linux安装MySQL5.7.36](https://github.com/Walhalla-Summary/Linux_Notes/blob/master/linux/Linux/%E4%B8%80%E6%96%87%E7%8E%A9%E8%BD%ACLinux%E5%AE%89%E8%A3%85MySQL8.0.16.md)
-* [linux硬核知识点](https://github.com/Walhalla-Summary/Linux_Notes/blob/master/linux/Linux/Linux%E7%A1%AC%E6%A0%B8%E7%9F%A5%E8%AF%86%E7%82%B9.md)
-* [初探linux内核](https://github.com/Walhalla-Summary/Linux_Notes/blob/master/linux/%E3%80%8A%E7%AC%AC%E4%B8%80%E7%AB%A0%E3%80%8B%E5%88%9D%E6%8E%A2linux%E5%86%85%E6%A0%B8.md)
-* [linux内存地址详解](https://github.com/Walhalla-Summary/Linux_Notes/blob/master/linux/Linux/linux%E8%AF%A6%E8%A7%A3%E5%86%85%E5%AD%98%E5%9C%B0%E5%9D%8001.md)
+* [java基础-图谱](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%9F%BA%E7%A1%80/3_Java%E5%9F%BA%E7%A1%80-%E5%9B%BE%E8%B0%B1%20%26%20Q%20%20A.md)
+* [java基础-泛型机制详解](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%9F%BA%E7%A1%80/4_Java%E5%9F%BA%E7%A1%80-%E6%B3%9B%E5%9E%8B%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3.md)
+* [java基础-注解机制详解](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%9F%BA%E7%A1%80/5_Java%E5%9F%BA%E7%A1%80-%E6%B3%A8%E8%A7%A3%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3.md)
 * [linux寄存器详解](https://github.com/Walhalla-Summary/Linux_Notes/blob/master/linux/Linux/linux%E8%AF%A6%E8%A7%A3%E5%AF%84%E5%AD%98%E5%99%A8.md)
 * [linux中断机制详解](https://github.com/Walhalla-Summary/Linux_Notes/blob/master/linux/Linux/%E8%AF%A6%E8%A7%A3Linux%E4%B8%AD%E6%96%AD%E6%9C%BA%E5%88%B6.md)
 * [linux零拷贝技术](https://github.com/Walhalla-Summary/Linux_Notes/blob/master/linux/Linux/linux%E9%9B%B6%E6%8B%B7%E8%B4%9D%E6%8A%80%E6%9C%AF.md)
