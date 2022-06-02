@@ -46,7 +46,7 @@ def HelloWorld():
 if__name__=='__main__':
     HelloWorld()
 ```
-<h2 align="center">Java.</h2>
+<h2 align="center">java.</h2>
 
 * [Java基础-知识点](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%9F%BA%E7%A1%80/1_Java%E5%9F%BA%E7%A1%80-%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 * [Java基础-面向对象](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Java/Java%E5%9F%BA%E7%A1%80/2_Java%E5%9F%BA%E7%A1%80-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)
