@@ -78,6 +78,8 @@ if__name__=='__main__':
 
 <h2 align="center">scala.</h2>
 
+* [scala开发基础](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Scala/Spark%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80%E4%B9%8BScala%E5%88%A9%E5%89%91.md)
+* [scala核心总结](https://github.com/Walhalla-Summary/Programming_Languages/blob/master/Scala/Scala%E6%A0%B8%E5%BF%83%E6%80%BB%E7%BB%93.md)
 
 <h2 align="center">python.</h2>
 
