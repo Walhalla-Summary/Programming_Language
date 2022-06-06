@@ -28,7 +28,7 @@ Integer、Short、Float、Double、Long、Boolean、Byte、Character。
 
 **jdk7之前** switch 只能支持 byte、short、char、int 这几个基本数据类型和其对应的封装类型。
 
-**switch后面的括号里面只能放int类型的值，但由于byte，short，char类型，它们会?自动?转换为int类型（精精度小的向大的转化），所以它们也支持**。
+**switch后面的括号里面只能放int类型的值，但由于byte，short，char类型，它们会自动转换为int类型（精精度小的向大的转化），所以它们也支持**。
 
 **jdk1.7后** 整形，枚举类型，boolean，字符串都可以。
 
